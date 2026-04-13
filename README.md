@@ -9,7 +9,7 @@
 
 💫 About Me:
 ---------------------
-  I am a Computer science student at York University, passionate about exploring the realms of coding, 
+  I completed my Computer Science degree at York University, passionate about exploring the realms of coding, 
   machine learning, and handling databases.
 
 
